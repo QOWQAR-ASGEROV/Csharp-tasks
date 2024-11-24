@@ -1,0 +1,14 @@
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\bin\Debug\net8.0\G.YLDZ TASKLAR.exe
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\bin\Debug\net8.0\G.YLDZ TASKLAR.deps.json
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\bin\Debug\net8.0\G.YLDZ TASKLAR.runtimeconfig.json
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\bin\Debug\net8.0\G.YLDZ TASKLAR.dll
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\bin\Debug\net8.0\G.YLDZ TASKLAR.pdb
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\G.YLDZ TASKLAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\G.YLDZ TASKLAR.AssemblyInfoInputs.cache
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\G.YLDZ TASKLAR.AssemblyInfo.cs
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\G.YLDZ TASKLAR.csproj.CoreCompileInputs.cache
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\G.YLDZ TASKLAR.dll
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\refint\G.YLDZ TASKLAR.dll
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\G.YLDZ TASKLAR.pdb
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\G.YLDZ TASKLAR.genruntimeconfig.cache
+C:\Users\QOSQAR\source\repos\G.YLDZ TASKLAR\obj\Debug\net8.0\ref\G.YLDZ TASKLAR.dll

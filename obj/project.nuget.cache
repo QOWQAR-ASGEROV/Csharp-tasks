@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uaRps1Kmuns=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\QOSQAR\\source\\repos\\G.YLDZ TASKLAR\\G.YLDZ TASKLAR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QOSQAR\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

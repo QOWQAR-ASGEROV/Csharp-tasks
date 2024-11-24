@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "G.YLDZ TASKLAR": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
